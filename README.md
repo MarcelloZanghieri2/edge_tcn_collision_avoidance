@@ -51,7 +51,7 @@ M. Zanghieri, F. Indirli, A. Latella, F. Papariello, G. Urlini, L. Benini, F. Co
 
 <a id="1">\[2\]</a>
 
-C. Lea, M. D. Flynn, R. Vidal, A. Reiter and G. D. Hager, “Temporal Convolutional Networks for Action Segmentation and Detection," 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 1003-1012, doi: [10.1109/CVPR.2017.113](10.1109/CVPR.2017.113).
+C. Lea, M. D. Flynn, R. Vidal, A. Reiter and G. D. Hager, “Temporal Convolutional Networks for Action Segmentation and Detection," 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 1003-1012, doi: [10.1109/CVPR.2017.113](https://doi.org/10.1109/CVPR.2017.113).
 
 <a id="2">\[3\]</a>
 S. Bai *et al*., “An empirical evaluation of generic convolutional and recurrent networks for sequence modeling,” *CoRR*, vol. [abs/1803.01271](https://doi.org/10.48550/arXiv.1803.01271), 2018.
