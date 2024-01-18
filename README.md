@@ -2,7 +2,8 @@
 
 This repository contains the code developed for the academic paper M. Zanghieri *et al*., “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery” [[1]](#1).
 
-INSERIRE IL DATASET
+We also share open-source the ultrasound dataset realized for this work, as the
+[Collision-Avoidance Ultrasoud Dataset](https://github.com/MarcelloZanghieri2/collision_avoidance_ultrasound_dataset).
 
 The code implements the experimental protocol for training and validating the Temporal Convolutional Network (TCN) [[2](#2), [3](#3)] presented in the work.
 
