@@ -50,7 +50,8 @@ When using the code or the dataset, please cite the paper:
 M. Zanghieri, F. Indirli, A. Latella, F. Papariello, G. Urlini, L. Benini, F. Conti, “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery,”  in *IEEE Access* **(ACCEPTED: TO APPEAR)**. 2024.
 
 <a id="1">\[2\]</a>
-C. Lea *et al*., “Temporal convolutional networks for action segmentation and detection,” *CoRR*, vol. [abs/1611.05267](https://doi.org/10.48550/arXiv.1611.05267), 2016.
+
+C. Lea, M. D. Flynn, R. Vidal, A. Reiter and G. D. Hager, “Temporal Convolutional Networks for Action Segmentation and Detection," 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 1003-1012, doi: [10.1109/CVPR.2017.113](10.1109/CVPR.2017.113).
 
 <a id="2">\[3\]</a>
 S. Bai *et al*., “An empirical evaluation of generic convolutional and recurrent networks for sequence modeling,” *CoRR*, vol. [abs/1803.01271](https://doi.org/10.48550/arXiv.1803.01271), 2018.
