@@ -5,7 +5,7 @@ This repository contains the code developed for the academic paper M. Zanghieri 
 We also share open-source the ultrasound dataset realized for this work, as the
 [Collision-Avoidance Ultrasound Dataset](https://github.com/MarcelloZanghieri2/collision_avoidance_ultrasound_dataset).
 
-The code implements the experimental protocol for training and validating the Temporal Convolutional Network (TCN) [[2](#2), [3](#3)] presented in the work.
+The code implements the experimental protocol for training and validating the Temporal Convolutional Network (TCN) [[2]](#2), [[3](#3)] presented in the work.
 
 For a **technical report** about an earlier stage of the same research project, please refer to F. Conti *et al*. [[4]](#4).
 
