@@ -49,10 +49,10 @@ When using the code or the dataset, please cite the paper:
 M. Zanghieri, F. Indirli, A. Latella, F. Papariello, G. Urlini, L. Benini, F. Conti, “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery,”  in *IEEE Access* **(ACCEPTED: TO APPEAR)**. 2024.
 
 <a id="1">\[2\]</a>
-C. Lea *et al*., "Temporal convolutional networks for action segmentation and detection," *CoRR*, vol. [abs/1611.05267](https://doi.org/10.48550/arXiv.1611.05267), 2016.
+C. Lea *et al*., “Temporal convolutional networks for action segmentation and detection,” *CoRR*, vol. [abs/1611.05267](https://doi.org/10.48550/arXiv.1611.05267), 2016.
 
 <a id="2">\[3\]</a>
-S. Bai *et al*., "An empirical evaluation of generic convolutional and recurrent networks for sequence modeling," *CoRR*, vol. [abs/1803.01271 (https://doi.org/10.48550/arXiv.1803.01271), 2018.
+S. Bai *et al*., “An empirical evaluation of generic convolutional and recurrent networks for sequence modeling,” *CoRR*, vol. [abs/1803.01271](https://doi.org/10.48550/arXiv.1803.01271), 2018.
 
 <a id="4">\[4\]</a>
 F. Conti, F. Indirli, A. Latella, F. Papariello, G. M. Puglia, F. Tecce, G. Urlini, M. Zanghieri, “AI-powered collision avoidance safety system for industrial woodworking machinery,” in *AI4DI – Applications*. River Publishers, 2021. DOI: [10.1201/9781003337232-17](https://www.doi.org/10.1201/9781003337232-17).
