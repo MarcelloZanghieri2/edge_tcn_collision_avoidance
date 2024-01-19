@@ -11,7 +11,7 @@ For a technical report about an earlier stage of the same research project, plea
 
 ## Authors
 
-The author of the code is [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (**Energy-Efficient Embedded Systems (EEES) Lab** of University of Bologna; work partially conducted while visiting at INI institute of ETH Zürich and University of Zürich).
+The author of the code is [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (University of Bologna; code partially developed while visiting at INI institute of ETH Zürich and University of Zürich).
 
 The authors of the paper are:
 
