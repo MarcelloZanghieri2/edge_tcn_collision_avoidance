@@ -48,7 +48,6 @@ When using the code or the dataset, please cite the paper:
 M. Zanghieri, F. Indirli, A. Latella, F. Papariello, G. Urlini, L. Benini, F. Conti, “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery,”  in *IEEE Access* **(ACCEPTED: TO APPEAR)**. 2024.
 
 <a id="1">\[2\]</a>
-
 C. Lea, M. D. Flynn, R. Vidal, A. Reiter and G. D. Hager, “Temporal Convolutional Networks for Action Segmentation and Detection," 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 1003-1012, doi: [10.1109/CVPR.2017.113](https://doi.org/10.1109/CVPR.2017.113).
 
 <a id="2">\[3\]</a>
