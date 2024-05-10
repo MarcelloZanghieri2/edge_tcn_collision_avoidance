@@ -5,7 +5,7 @@ The code implements the paper's Temporal Convolutional Network (TCN) [[2]](#2), 
 
 We also publish the [Collision-Avoidance Ultrasound Dataset](https://github.com/MarcelloZanghieri2/collision_avoidance_ultrasound_dataset) realized in this work.
 
-For a technical report about an earlier stage of the same research project, please refer to F. Conti *et al*. [[4]](#4).
+For a technical report about an earlier stage of the same research project, please refer to F. Conti *et al.* [[4]](#4).
 
 
 
@@ -16,12 +16,14 @@ The author of the code is [Marcello Zanghieri](https://scholar.google.com/citati
 The authors of the paper are:
 
 - [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (University of Bologna)
-- Fabrizio Indirli (work conducted when working at Politecnico di Milano and STMicroelectronics)
+- Fabrizio Indirli (work conducted while at Politecnico di Milano and STMicroelectronics)
 - Antonio Latella (SCM Group)
+- Giacomo Michele Puglia (work done while at DPControl)
+- Felice Tecce (work done while at DPControl)
 - Francesco Papariello (STMicroelectronics)
 - Giulio Urlini (STMicroelectronics)
 - [Prof. Luca Benini](https://scholar.google.com/citations?user=8riq3sYAAAAJ&hl=en) (University of Bologna, ETH Zürich)
-- [Prof. Francesco Conti](https://scholar.google.it/citations?user=A70PCXoAAAAJ&hl=en) (University of Bologna)
+- [Prof. Francesco Conti](https://scholar.google.it/citations?user=A70PCXoAAAAJ&hl=en)  (University of Bologna)
 
 
 
@@ -29,15 +31,16 @@ The authors of the paper are:
 
 When using the code or the dataset, please cite the paper:
 ```
-@article{zanghieri2024extreme,
-  author={Zanghieri, Marcello and Indirli, Fabrizio and Latella, Antonio and Papariello, Francesco and Urlini, Giulio and Benini, Luca and Conti, Francesco},
-  journal={IEEE Access (ACCEPTED: TO APPEAR)}, 
+@article{zanghieri2024extremeedge,
+  author={Zanghieri, Marcello and Indirli, Fabrizio and Latella, Antonio and Puglia, Giacomo Michele and Tecce, Felice and Papariello, Francesco and Urlini, Giulio and Benini, Luca and Conti, Francesco},
+  journal={IEEE Access}, 
   title={An Extreme-Edge {TCN}-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery}, 
   year={2024},
-  volume={},
+  volume={12},
   number={},
-  pages={},
-  doi={}}
+  pages={16009-16021},
+  doi={10.1109/ACCESS.2024.3357510},
+}
 ```
 
 
@@ -45,7 +48,7 @@ When using the code or the dataset, please cite the paper:
 ## References
 
 <a id="1">\[1\]</a>
-M. Zanghieri, F. Indirli, A. Latella, F. Papariello, G. Urlini, L. Benini, F. Conti, “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery,”  in *IEEE Access* **(ACCEPTED: TO APPEAR)**. 2024.
+M. Zanghieri, F. Indirli, A. Latella, F. Papariello, G. Urlini, L. Benini, F. Conti, “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery,” IEEE Access, pp. 1–1, 2024. DOI: [10.1109/ACCESS.2024.3357510](https://www.doi.org/10.1109/ACCESS.2024.3357510)
 
 <a id="1">\[2\]</a>
 C. Lea, M. D. Flynn, R. Vidal, A. Reiter and G. D. Hager, “Temporal Convolutional Networks for Action Segmentation and Detection," 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 1003-1012, doi: [10.1109/CVPR.2017.113](https://doi.org/10.1109/CVPR.2017.113).
