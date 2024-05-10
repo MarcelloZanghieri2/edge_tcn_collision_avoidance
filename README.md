@@ -1,6 +1,6 @@
 # An Extreme-Edge TCN-based Low-Latency Collision-Avoidance Safety System for Industrial Machinery
 
-This repository contains the code developed for the academic paper M. Zanghieri *et al*., “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery” [[1]](#1).
+This repository contains the code developed for the academic paper M. Zanghieri *et al*., “An extreme-edge TCN-based low-latency collision-avoidance safety system for industrial machinery” [[1]](#1).
 The code implements the paper's Temporal Convolutional Network (TCN) [[2]](#2), [[3]](#3) and the experimental protocol.
 
 We also publish the [Collision-Avoidance Ultrasound Dataset](https://github.com/MarcelloZanghieri2/collision_avoidance_ultrasound_dataset) realized in this work.
@@ -48,10 +48,10 @@ When using the code or the dataset, please cite the paper:
 ## References
 
 <a id="1">\[1\]</a>
-M. Zanghieri, F. Indirli, A. Latella, F. Papariello, G. Urlini, L. Benini, and F. Conti, “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery,” _IEEE Access_, pp. 1–1, 2024. DOI: [10.1109/ACCESS.2024.3357510](https://www.doi.org/10.1109/ACCESS.2024.3357510)
+M. Zanghieri, F. Indirli, A. Latella, F. Papariello, G. Urlini, L. Benini, and F. Conti, “An extreme-edge TCN-based low-latency collision-avoidance safety system for industrial machinery,” _IEEE Access_, pp. 1–1, 2024. DOI: [10.1109/ACCESS.2024.3357510](https://www.doi.org/10.1109/ACCESS.2024.3357510)
 
 <a id="2">\[2\]</a>
-C. Lea, M. D. Flynn, R. Vidal, A. Reiter, and G. D. Hager, “Temporal Convolutional Networks for Action Segmentation and Detection," _2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2017, pp. 1003-1012. DOI: [10.1109/CVPR.2017.113](https://doi.org/10.1109/CVPR.2017.113)
+C. Lea, M. D. Flynn, R. Vidal, A. Reiter, and G. D. Hager, “Temporal convolutional networks for action segmentation and detection," _2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2017, pp. 1003-1012. DOI: [10.1109/CVPR.2017.113](https://doi.org/10.1109/CVPR.2017.113)
 
 <a id="3">\[3\]</a>
 S. Bai, J.Z. Kolter, and V. Koltun, “An empirical evaluation of generic convolutional and recurrent networks for sequence modeling,” *CoRR*, vol. abs/1803.01271, 2018. DOI: [10.48550/arXiv.1803.01271](https://doi.org/10.48550/arXiv.1803.01271)
