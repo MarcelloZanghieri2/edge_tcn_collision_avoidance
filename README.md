@@ -21,7 +21,7 @@ The authors of the paper are:
 - Francesco Papariello (STMicroelectronics)
 - Giulio Urlini (STMicroelectronics)
 - [Prof. Luca Benini](https://scholar.google.com/citations?user=8riq3sYAAAAJ&hl=en) (University of Bologna, ETH Zürich)
-- [Prof. Francesco Conti](https://scholar.google.it/citations?user=A70PCXoAAAAJ&hl=en)  (University of Bologna)
+- [Prof. Francesco Conti](https://scholar.google.it/citations?user=A70PCXoAAAAJ&hl=en) (University of Bologna)
 
 
 
